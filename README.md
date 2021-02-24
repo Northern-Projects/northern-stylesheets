@@ -1,5 +1,9 @@
 ## Designed by Isabela Porto
 
+## How to use
+
+git submodule add https://github.com/Northern-Projects/northern-stylesheets.git spec
+
 ## Setup
 
 Ensure you have bootstrap and it's dependencies
