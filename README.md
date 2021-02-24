@@ -2,7 +2,7 @@
 
 ## How to use
 
-git submodule add https://github.com/Northern-Projects/northern-stylesheets.git app/assets/stylesheets
+git submodule update https://github.com/Northern-Projects/northern-stylesheets.git app/assets/stylesheets
 
 ## Setup
 
